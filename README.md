@@ -9,3 +9,6 @@ The serial number, MLB, SystemUUID and ROM in `EFI/OC/config.plist` are left bla
 ## Disclaimer
 This EFI is made for my ThinkPad t480, I'm not promising that its going to work for your device,
 and i am not responsible for causing harm to your device in anyway.
+
+My ThinkPad pro
+<img width="1920" height="1080" alt="Screenshot 2026-10-28 at 11 06 47" src="https://github.com/user-attachments/assets/6e5364c5-906e-4e05-a1b6-40afc8377a56" />

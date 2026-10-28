@@ -1,5 +1,7 @@
 # tahoe-t480
-A opencore EFI for macos tahoe
+A opencore EFI for macos tahoe on the thinkpad t480,
+this is a modified version of this efi https://github.com/tame-t/macos-15-t480,
+there are many improvement of it that a made for battery performance, battery life, video streaming, etc.
 
 ## SMBIOS
 

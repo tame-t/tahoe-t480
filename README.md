@@ -6,6 +6,10 @@ there are many improvement of it that a made for battery performance, battery li
 ## SMBIOS
 The serial number, MLB, SystemUUID and ROM in `EFI/OC/config.plist` are left blank. Before booting, generate your own MacBookPro16,1 values (for example with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)) and fill them in under `PlatformInfo > Generic`. GenSMBIOS doesn't make `ROM`; set it to your network card's MAC address.
 
+## WIFI
+You will need to use oclp mod to get wifi working https://github.com/laobamac/OCLP-Mod/releases/tag/3.1.9,
+this is a more detail guide https://github.com/5T33Z0/OCLP4Hackintosh/blob/main/Enable_Features/AirportItllwm_Sequoia.md
+
 ## Disclaimer
 This EFI is made for my ThinkPad t480, I'm not promising that its going to work for your device,
 and i am not responsible for causing harm to your device in anyway.

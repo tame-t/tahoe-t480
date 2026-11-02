@@ -14,8 +14,10 @@ this is a more detail guide https://github.com/5T33Z0/OCLP4Hackintosh/blob/main/
 I will not recommend installing Tahoe on a t480 with single stick memory, 
 Tahoe is graphics heave and needs the the extra bandwidth to run smoothly,
 i would recommend getting two 8gb stick for 16gb of ram to run Tahoe.
+
 This EFI is made for my ThinkPad t480, I'm not promising that its going to work for your device,
 and i am not responsible for causing harm to your device in anyway.
+
 This repo is made for educational purposes i do not condone in the piracy of any Apple products.
 
 My ThinkPad pro

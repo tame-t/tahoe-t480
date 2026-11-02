@@ -1,7 +1,7 @@
 # tahoe-t480
 A opencore EFI for macos tahoe on the thinkpad t480,
 this is a modified version of this EFI https://github.com/tame-t/macos-15-t480,
-there are many improvement of it that a made for battery performance, battery life, video streaming, sleep, etc.
+there are many improvement of it that a made for battery performance, battery life, better video streaming, sleep, etc.
 
 ## SMBIOS
 The serial number, MLB, SystemUUID and ROM in `EFI/OC/config.plist` are left blank. Before booting, generate your own MacBookPro16,1 values (for example with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)) and fill them in under `PlatformInfo > Generic`. GenSMBIOS doesn't make `ROM`; set it to your network card's MAC address.
@@ -11,6 +11,9 @@ You will need to use oclp mod to get wifi working https://github.com/laobamac/OC
 this is a more detail guide https://github.com/5T33Z0/OCLP4Hackintosh/blob/main/Enable_Features/AirportItllwm_Sequoia.md
 
 ## Disclaimer
+I will not recommend installing Tahoe on a t480 with single stick memory, 
+Tahoe is graphics heave and needs the the extra bandwidth to run smoothly,
+i would recommend getting two 8gb stick for 16gb of ram to run Tahoe.
 This EFI is made for my ThinkPad t480, I'm not promising that its going to work for your device,
 and i am not responsible for causing harm to your device in anyway.
 This repo is made for educational purposes i do not condone in the piracy of any Apple products.
